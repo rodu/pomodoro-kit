@@ -1,0 +1,19 @@
+{
+  "name": "nw-demo",
+  "main": "index.html",
+  "window": {
+    "title": "Pomodoro-Kit",
+    "icon": "resources/pomodoro.png",
+    "toolbar": false,
+    "width": 800,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 800,
+    "max_height": 600
+  },
+  "devDependencies": {
+    "nodewebkit": "^0.8.6"
+  }
+}
